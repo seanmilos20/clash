@@ -72,10 +72,6 @@
 +.cdn.govcms.gov.au
 +.www.govcms.gov.au.edgekey.net
 +.www.eftps.gov
-+.chatgpt.com
-+.*.chatgpt.com
-+.openai.com
-+.*.openai.com
 +.e7367.dsca.akamaiedge.net
 +.www.uscis.gov
 +.www.uscis.gov.edgekey.net
@@ -134,7 +130,6 @@
 +.www.currys.co.uk
 +.*.evus.gov
 +.e4788.dsca.akamaiedge.net
-+.gemini.google.com
 +.account.t-mobile.com
 +.7biko.x.incapdns.net
 +.www.legifrance.gouv.fr.cdn.cloudflare.net
