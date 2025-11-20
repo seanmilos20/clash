@@ -168,8 +168,8 @@
 +.*.fairwork.gov.au
 +.e68714.dscb.akamaiedge.net
 +.www.fairwork.gov.au.edgekey.net
-+.scholar.google.com
-+.scholar.l.google.com
+*+.scholar.google.com
+*+.scholar.l.google.com
 +.*.census.gov
 +.census.gov
 +.e8332.dscna.akamaiedge.net
